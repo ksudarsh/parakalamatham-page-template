@@ -1,3 +1,5 @@
+> **Archived 2026-10-16.** This project now lives in the Parakalamatham website repository (`ksudarsh/Parakalamatham_Website`) at `templates/page-starter/`, with its full history. This repository is kept read-only for reference.
+
 # ParakalaMatham Page Template
 
 Starter template for `parakalamatham.org` custom page projects.
